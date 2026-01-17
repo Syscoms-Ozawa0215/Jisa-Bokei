@@ -1,0 +1,108 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3C3-Kv-jdZ"; */
+"3C3-Kv-jdZ.text" = "Label";
+
+/* Class = "UIViewController"; title = "Splash View"; ObjectID = "7cA-g7-YuK"; */
+"7cA-g7-YuK.title" = "Splash View";
+
+/* Class = "UISegmentedControl"; 7wO-qF-gCJ.segmentTitles[0] = "標準"; ObjectID = "7wO-qF-gCJ"; */
+"7wO-qF-gCJ.segmentTitles[0]" = "標準";
+
+/* Class = "UISegmentedControl"; 7wO-qF-gCJ.segmentTitles[1] = "時分"; ObjectID = "7wO-qF-gCJ"; */
+"7wO-qF-gCJ.segmentTitles[1]" = "時分";
+
+/* Class = "UIBarButtonItem"; title = "設定"; ObjectID = "8NS-1b-foK"; */
+"8NS-1b-foK.title" = "設定";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "9TI-hf-o6z"; */
+"9TI-hf-o6z.title" = "Title";
+
+/* Class = "UILabel"; text = "地域"; ObjectID = "AiP-gq-sNC"; */
+"AiP-gq-sNC.text" = "地域";
+
+/* Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "FPh-C0-c0P"; */
+"FPh-C0-c0P.normalTitle" = "キャンセル";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FnP-Rd-sKo"; */
+"FnP-Rd-sKo.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "時差計算"; ObjectID = "M8f-LP-aL5"; */
+"M8f-LP-aL5.title" = "時差計算";
+
+/* Class = "UILabel"; text = "現地時間"; ObjectID = "RJF-gi-594"; */
+"RJF-gi-594.text" = "現地時間";
+
+/* Class = "UISegmentedControl"; RyB-jY-9rB.segmentTitles[0] = "計算"; ObjectID = "RyB-jY-9rB"; */
+"RyB-jY-9rB.segmentTitles[0]" = "計算";
+
+/* Class = "UISegmentedControl"; RyB-jY-9rB.segmentTitles[1] = "時計"; ObjectID = "RyB-jY-9rB"; */
+"RyB-jY-9rB.segmentTitles[1]" = "時計";
+
+/* Class = "UISegmentedControl"; RyB-jY-9rB.segmentTitles[2] = "終了時"; ObjectID = "RyB-jY-9rB"; */
+"RyB-jY-9rB.segmentTitles[2]" = "終了時";
+
+/* Class = "UIButton"; normalTitle = "設定"; ObjectID = "U4s-XY-K59"; */
+"U4s-XY-K59.normalTitle" = "設定";
+
+/* Class = "UISegmentedControl"; Xkb-uK-byD.segmentTitles[0] = "なし"; ObjectID = "Xkb-uK-byD"; */
+"Xkb-uK-byD.segmentTitles[0]" = "なし";
+
+/* Class = "UISegmentedControl"; Xkb-uK-byD.segmentTitles[1] = "UTC"; ObjectID = "Xkb-uK-byD"; */
+"Xkb-uK-byD.segmentTitles[1]" = "UTC";
+
+/* Class = "UISegmentedControl"; Xkb-uK-byD.segmentTitles[2] = "基準国"; ObjectID = "Xkb-uK-byD"; */
+"Xkb-uK-byD.segmentTitles[2]" = "基準国";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dPp-Rv-FuU"; */
+"dPp-Rv-FuU.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "時差計算"; ObjectID = "eIQ-cY-NdP"; */
+"eIQ-cY-NdP.title" = "時差計算";
+
+/* Class = "UILabel"; text = "時差表示"; ObjectID = "ecI-bl-2tj"; */
+"ecI-bl-2tj.text" = "時差表示";
+
+/* Class = "UILabel"; text = "スプラッシュ画面表示"; ObjectID = "fac-7L-2CJ"; */
+"fac-7L-2CJ.text" = "スプラッシュ画面表示";
+
+/* Class = "UIBarButtonItem"; title = "キャンセル"; ObjectID = "gEx-XS-fHC"; */
+"gEx-XS-fHC.title" = "キャンセル";
+
+/* Class = "UILabel"; text = "時刻表示形式"; ObjectID = "idu-Pf-BxR"; */
+"idu-Pf-BxR.text" = "時刻表示形式";
+
+/* Class = "UINavigationItem"; title = "世界時計"; ObjectID = "kcd-NR-nDw"; */
+"kcd-NR-nDw.title" = "世界時計";
+
+/* Class = "UILabel"; text = "起動時モード"; ObjectID = "llw-VF-Nn1"; */
+"llw-VF-Nn1.text" = "起動時モード";
+
+/* Class = "UITableViewController"; title = "SelectViewController"; ObjectID = "mmB-pW-MZ5"; */
+"mmB-pW-MZ5.title" = "SelectViewController";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nnx-8W-7UW"; */
+"nnx-8W-7UW.text" = "Label";
+
+/* Class = "UILabel"; text = "未設定"; ObjectID = "ot1-jp-cpx"; */
+"ot1-jp-cpx.text" = "未設定";
+
+/* Class = "UISegmentedControl"; p8h-mB-bpF.segmentTitles[0] = "地域"; ObjectID = "p8h-mB-bpF"; */
+"p8h-mB-bpF.segmentTitles[0]" = "地域";
+
+/* Class = "UISegmentedControl"; p8h-mB-bpF.segmentTitles[1] = "地図"; ObjectID = "p8h-mB-bpF"; */
+"p8h-mB-bpF.segmentTitles[1]" = "地図";
+
+/* Class = "UISegmentedControl"; p8h-mB-bpF.segmentTitles[2] = "時差"; ObjectID = "p8h-mB-bpF"; */
+"p8h-mB-bpF.segmentTitles[2]" = "時差";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qgP-cT-v7x"; */
+"qgP-cT-v7x.text" = "Label";
+
+/* Class = "UINavigationItem"; prompt = " "; ObjectID = "wFm-f8-PUA"; */
+"wFm-f8-PUA.prompt" = " ";
+
+/* Class = "UITabBarItem"; title = "世界時計"; ObjectID = "wbd-Yl-EYb"; */
+"wbd-Yl-EYb.title" = "世界時計";
+
+/* Class = "UILabel"; text = "未設定"; ObjectID = "xtt-NL-9GF"; */
+"xtt-NL-9GF.text" = "未設定";
